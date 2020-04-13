@@ -12,7 +12,10 @@ function Header() {
   return (
     <div>
         <h1>Fragrance Quiz</h1>
-        <h4>basic react app, using <a href="//github.com/react-boilerplate/react-boilerplate">react boilerplate.</a><br/><a href="//github.com/lizch3n/react-test-project/">github for this project</a></h4>
+        <h4>basic react app, using <a href="//github.com/react-boilerplate/react-boilerplate">react boilerplate.</a>
+            <br/><a href="//github.com/lizch3n/react-test-project/">github for this project</a>
+            <br/><a href="//fragrance-finder-vue.herokuapp.com/">vue version</a>
+        </h4>
     </div>
   );
 }
